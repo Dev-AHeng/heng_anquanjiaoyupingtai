@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		  <!--<style name="AppTheme" parent="@android:style/Theme.Material.Light">
+		  </style>-->
+
+		  <!--colorPrimaryDark 状态栏
+		  colorPrimary 工具栏
+		  colorAccent 控件颜色-->
+		  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+					<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+					<item name="colorPrimary">@color/colorPrimary</item>
+					<item name="colorAccent">@color/colorAccent</item> 
+		  </style>
+
+</resources>
+
