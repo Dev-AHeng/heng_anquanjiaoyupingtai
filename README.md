@@ -24,4 +24,4 @@
 ## 交流
 [作者QQ](http://qm.qq.com/cgi-bin/qm/qr?k=0Zx7_bPICHdthcI8tippePfUq2goq8p-)
 ####
-[连裤裙](https://qm.qq.com/cgi-bin/qm/qr?k=Sq4V1qEEMP2kcBakSGMAbgMEF3jUQ3CB&authKey=bVN7j18DnlF3p%2BVYFp7serUw3qajC6H0nKqf4WMHJGsN44lFtFtCjw%3D%3D)
+[Android Developer Group](https://qm.qq.com/cgi-bin/qm/qr?k=Sq4V1qEEMP2kcBakSGMAbgMEF3jUQ3CB&authKey=bVN7j18DnlF3p%2BVYFp7serUw3qajC6H0nKqf4WMHJGsN44lFtFtCjw%3D%3D)
