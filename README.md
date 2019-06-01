@@ -18,3 +18,4 @@
 ```
 ### 效果
 ![image](http://39.108.149.133/github_ok_anquanjiaoyupingtai/g.gif)
+gif太大了不能正常显示[请移步这里](http://39.108.149.133/github_ok_anquanjiaoyupingtai/ok.mp4)
