@@ -17,4 +17,4 @@
 }
 ```
 ### 效果
-![效果1](https://ib11.go2yd.com/image.php?url=0M87jKQtgH)
+![效果1](39.108.149.133/github_ok_anquanjiaoyupingtai/ok.mp4)
