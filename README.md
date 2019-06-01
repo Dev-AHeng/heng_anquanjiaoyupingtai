@@ -19,4 +19,7 @@
 ### 效果
 #### gif太大了不能正常显示，完整效果[请移步这里](http://39.108.149.133/heng_github_ok_anquanjiaoyupingtai/ok.mp4)
 ![image](http://39.108.149.133/heng_github_ok_anquanjiaoyupingtai/g.gif)
-<br><br>
+<br><br><br>
+
+### 交流
+[作者QQ](http://qm.qq.com/cgi-bin/qm/qr?k=0Zx7_bPICHdthcI8tippePfUq2goq8p-)
