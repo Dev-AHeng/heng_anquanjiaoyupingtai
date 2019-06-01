@@ -17,4 +17,4 @@
 }
 ```
 ### 效果
-![image](http://39.108.149.133/github_ok_anquanjiaoyupingtai/ok.gif)
+![image](http://39.108.149.133/github_ok_anquanjiaoyupingtai/g.gif)
